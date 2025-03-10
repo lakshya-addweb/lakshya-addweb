@@ -1,16 +1,21 @@
-# 👋 Hi, I'm Lakshya Soni!
+<h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
+<h3 align="center">Salesforce Developer with expertise in Apex, LWC, and API integrations.</h3>
 
-## 🚀 About Me
-I am a Salesforce Developer with 1+ years of hands-on experience in designing, developing, and customizing Salesforce solutions to streamline business processes and enhance user experience. I specialize in Apex, Visualforce, Lightning Web Components (LWC), and Salesforce development tools to build scalable applications tailored to business needs. My expertise includes integrating Salesforce with external systems using REST and SOAP APIs to enable seamless data synchronization across platforms.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-addweb" /> </p>
 
-## 🚀 What I’m Working On
-**Building high-performing and scalable Salesforce applications using Apex, LWC, and Lightning Components.**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-addweb" alt="lakshya-addweb" /></a> </p>
 
-- 🌱 Currently exploring **AI-driven automation, advanced Salesforce analytics, and DevOps best practices.**
-- 👯 Seeking collaborations in **Salesforce automation, AI integrations, and enterprise-grade solutions.**
-- 🤝 Looking for insights into **enhancing API integrations and improving Salesforce performance.**
-- 💬 Happy to discuss **Salesforce development, custom workflows, and API integrations.**
-- ⚡ Fun fact: **Debugging Apex is my superpower—faster than my coffee disappears! ☕**
+- 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
+
+- 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
+
+- 👯 I’m looking to collaborate on **Open-source initiatives and innovative projects.**
+
+- 🤝 I’m looking for help with **Optimizing backend performance and database scalability.**
+
+- 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
+
+- ⚡ Fun fact **I can fix bugs while making coffee! ☕**
 
 ## 🎯 Technical Skills
 
@@ -45,16 +50,6 @@ I am a Salesforce Developer with 1+ years of hands-on experience in designing, d
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### **Projects**
-🔹 **Custom CRM Development**  
-Developed a tailored CRM solution for a financial services company, integrating automation for lead management and customer interactions using Apex triggers and Lightning Components.
-
-🔹 **AI-Powered Chatbots for Salesforce**  
-Designed and implemented an AI-driven chatbot using Einstein Bots to automate customer support, reducing manual intervention by 40%.
-
-🔹 **Automated Reporting Dashboards**  
-Created real-time dashboards using Salesforce Reports and Dashboards, enhancing business intelligence and decision-making for a retail company.
 
 ## 🌜 Certifications
 - 🏆 **Salesforce Administrator Certified**
