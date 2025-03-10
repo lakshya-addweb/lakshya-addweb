@@ -57,11 +57,10 @@ Designed and implemented an AI-driven chatbot using Einstein Bots to automate cu
 Created real-time dashboards using Salesforce Reports and Dashboards, enhancing business intelligence and decision-making for a retail company.
 
 ## 🌜 Certifications
+- 🏆 **Salesforce Administrator Certified**
 - 🏆 **Salesforce Certified AI Specialist**
 - 🏆 **Salesforce Certified AI Associate**
 
 ## 🔗 Salesforce Account
-[Trailblazer Profile](https://www.salesforce.com/trailblazer/lakshyasoni)
 
----
-🚀 Passionate about Salesforce, innovation, and continuous learning!
+[Trailblazer Profile](https://www.salesforce.com/trailblazer/lakshyasoni)
