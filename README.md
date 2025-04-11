@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
 <h3 align="center">Salesforce Developer with expertise in Apex, LWC, and API integrations.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-addweb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-addweb" alt="lakshya-addweb" /></a> </p>
-
 - 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
 
 - 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
@@ -16,6 +12,10 @@
 - 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
 
 - ⚡ Fun fact **I can fix bugs while making coffee! ☕**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-addweb" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-addweb" alt="lakshya-addweb" /></a> </p>
 
 ## 🎯 Technical Skills
 
