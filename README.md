@@ -59,3 +59,5 @@
 ## 🔗 Salesforce Account
 
 [Trailblazer Profile](https://www.salesforce.com/trailblazer/lakshyasoni)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-addweb&show_icons=true&locale=en&layout=compact" alt="lakshya-addweb" /></p>
