@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lakshya Soni</h1>
 <h3 align="center">Salesforce Developer with expertise in Apex, LWC, and API integrations.</h3>
 
-- 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
+🌱 I’m currently exploring **AI-powered Salesforce automation, Einstein Analytics, and DevOps in Salesforce.**
 
-- 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
+👯 I’m looking to collaborate on **custom Salesforce apps, API integrations, and scalable CRM solutions.**
 
-- 👯 I’m looking to collaborate on **Open-source initiatives and innovative projects.**
+🤝 I’m looking for help with **optimizing performance, advanced triggers, and multi-cloud integrations.**
 
-- 🤝 I’m looking for help with **Optimizing backend performance and database scalability.**
+💬 Ask me about **Apex, Lightning Web Components (LWC), Visualforce, REST/SOAP APIs, and Flow Builder.**
 
-- 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
-
-- ⚡ Fun fact **I can fix bugs while making coffee! ☕**
+⚡ Fun fact: **I debug Apex faster than Trailhead badges load! 🚀**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-addweb" /> </p>
 
